@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "山越うどん",
+        "description": "元祖釜玉うどんのお店 ",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.928281,
+          34.225739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "元祖しょうゆうどん 小縣家",
+        "description": "自分で大根おろしをすってうどんにトッピング ",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.858671,
+          34.185539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "長田うどん",
+        "description": "釜揚げうどん食べるならこのお店！ ",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.857838,
+          34.185536
+        ]
+      }
+    }
+  ]
+}
